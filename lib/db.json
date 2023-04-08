@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "todo": "Get milk from the environment",
+      "isComplete": true,
+      "id": 1
+    }
+  ]
+}
